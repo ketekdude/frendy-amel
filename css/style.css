@@ -868,6 +868,9 @@ form label {
   #fh5co-header  {
     background-position: -300px;
   }
+  #fh5co-started{
+    background-position: 0px;
+  }
 }
 #fh5co-header .display-tc h2,
 #fh5co-counter .display-tc h2,

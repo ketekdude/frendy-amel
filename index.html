@@ -76,7 +76,7 @@
 			<div class="modal-header">
 			  <button type="button" class="close" data-dismiss="modal">&times;</button>
 			  <h4 class="modal-title">Dear, </h4>
-			  <div style="margin-top: -30px;margin-bottom: -30px;font-size: 100px;font-family: Sacramento, Arial, serif;" id="fh5co-logo" class="guestName"><a href="index.html">Ricki<strong></strong></a></div>
+			  <div style="margin-top: -30px;margin-bottom: -30px;font-size: 100px;font-family: Sacramento, Arial, serif;" id="fh5co-logo"><a class="guestName" href="index.html">Ricki<strong></strong></a></div>
 			  
 			</div>
 			<div class="modal-body">
@@ -99,7 +99,7 @@
 					<div id="fh5co-logo"><a href="index.html">Wedding<strong>.</strong></a></div>
 					<button type="button" style="display: none;" class="buttonPopUp btn btn-info btn-lg" data-toggle="modal" data-target="#myModal">Open Modal</button>
 				</div>
-				<div class="col-xs-10 text-right menu-1">
+				<div style="display: none;" class="col-xs-10 text-right menu-1">
 					<ul>
 						<li class="active"><a href="index.html">Home</a></li>
 						<!-- <li><a href="about.html">Story</a></li> -->
@@ -544,7 +544,7 @@
 	</div> -->
 
 
-	<div id="fh5co-started" class="fh5co-bg" style="background-image:url(images/ferenamel.jpg);">
+	<div id="fh5co-started" class="fh5co-bg" style="background-image:url(images/ferenamel.jpg);background-position-y: 0px;">
 		<div class="overlay"></div>
 		<div class="container">
 			<div class="row animate-box">
@@ -639,6 +639,19 @@
 		var audio = new Audio('audio/backsound.mp3');
 		audio.play();
 	})
+	$.getJSON( "guest.json", function( data ) {
+		var url_string = window.location.href;
+		
+		var url = new URL(url_string);
+		var c = url.searchParams.get("name");
+		$('.guestName').text('gadiundang');
+		for(let i = 0;i<data.length;i++){
+			if(data[i].name == c){
+				$('.guestName').text(data[i].GuestName);
+			}
+		}
+		
+	});
 	
     var d = new Date(new Date().getTime() + 200 * 120 * 120 * 2000);
     // default example
