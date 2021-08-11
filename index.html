@@ -85,7 +85,7 @@
 			  </p>
 			</div>
 			<div class="modal-footer">
-			  <button type="button" class="btn btn-default" data-dismiss="modal">Close</button>
+			  <button type="button" class="modal-close btn btn-default" data-dismiss="modal">Close</button>
 			</div>
 		  </div>
 		  
@@ -553,7 +553,7 @@
 					<p>Please Fill-up the form to notify you that you're attending. Thanks.</p>
 				</div>
 			</div>
-			<div class="row animate-box">
+			<div class="row">
 				<div class="col-md-10 col-md-offset-1">
 					<form class="form-inline">
 						<!-- <div class="col-md-4 col-sm-4">
@@ -635,7 +635,7 @@
 	<script src="js/main.js"></script>
 
 	<script>
-	$('.btn').click(function(){
+	$('.modal-close').click(function(){
 		var audio = new Audio('audio/backsound.mp3');
 		audio.play();
 	})
