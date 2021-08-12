@@ -13,6 +13,9 @@
 html {
   scroll-behavior: smooth;
 }
+.qrimage{
+  width: 500px
+}
 body {
   font-family: "Work Sans", Arial, sans-serif;
   font-weight: 400;
@@ -873,6 +876,9 @@ form label {
   }
   .guestName{
     font-size: 50px;
+  }
+  .qrimage{
+    width: 300px
   }
 }
 #fh5co-header .display-tc h2,
