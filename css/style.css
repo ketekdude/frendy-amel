@@ -880,6 +880,10 @@ form label {
   .guestName{
     font-size: 30px;
   }
+  #fh5co-logo{
+    margin-top: -60px;
+    margin-bottom: -30px;
+  }
   .qrimage{
     width: 300px
   } 
