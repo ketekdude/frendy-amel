@@ -1,5 +1,18 @@
 [
-    {"name":"rickigozal",
-    "GuestName":"Ricki Gozal"}
+    {
+    "name":"rickigozal",
+    "GuestName":"Ricki Gozal",
+    "Invitation":["HolyMatrimony", "Wedding"]
+    },
+    {
+        "name":"frendy",
+        "GuestName":"Frendy",
+        "Invitation":["HolyMatrimony"]
+    },
+    {
+        "name":"ameliaanasthasia",
+        "GuestName":"Amelia Anasthasia",
+        "Invitation":["Wedding"]
+    }
 
 ]

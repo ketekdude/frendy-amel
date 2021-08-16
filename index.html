@@ -198,12 +198,12 @@
 				<div class="display-t">
 					<div class="display-tc">
 						<div class="col-md-10 col-md-offset-1">
-							<div class="col-md-6 col-sm-6 text-center">
+							<div class="HolyMatrimony col-md-6 col-sm-6 text-center" style="display: none;">
 								<div class="event-wrap animate-box">
 									<h3>Holy Matrimony</h3>
 									<div class="event-col">
 										<i class="icon-clock"></i>
-										<span>10:00 AM</span>
+										<span>1:30 PM</span>
 									</div>
 									<div class="event-col">
 										<i class="icon-calendar"></i>
@@ -215,7 +215,7 @@
 										Jakarta Barat</p>
 								</div>
 							</div>
-							<div class="col-md-6 col-sm-6 text-center">
+							<div class="Wedding col-md-6 col-sm-6 text-center" style="display: none;">
 								<div class="event-wrap animate-box">
 									<h3>Wedding Party</h3>
 									<div class="event-col">
@@ -712,6 +712,11 @@
 		for(let i = 0;i<data.length;i++){
 			if(data[i].name == c){
 				$('.guestName').text(data[i].GuestName);
+				for(let j = 0;j<data[i].Invitation.length;j++){
+					let invite = data[i].Invitation[j];
+					$('.'+invite).css('display','');
+				}
+				
 			}
 		}
 		
