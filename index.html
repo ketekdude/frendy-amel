@@ -719,6 +719,7 @@
 	<script>
 	$('.modal-close').click(function(){
 		var audio = new Audio('audio/backsound.mp3');
+		audio.loop = true;
 		audio.play();
 	})
 	$.getJSON( "guest.json", function( data ) {
