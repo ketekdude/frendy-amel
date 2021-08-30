@@ -1,18 +1,404 @@
-[
-    {
-    "name":"rickigozal",
-    "GuestName":"Ricki Gozal",
-    "Invitation":["HolyMatrimony", "Wedding"]
-    },
-    {
-        "name":"frendy",
-        "GuestName":"Frendy",
-        "Invitation":["HolyMatrimony"]
-    },
-    {
-        "name":"ameliaanasthasia",
-        "GuestName":"Amelia Anasthasia",
-        "Invitation":["Wedding"]
-    }
+[{
+    "name": "rickigozal",
+    "GuestName": "Ricki Gozal",
+    "Invitation": ["HolyMatrimony", "Wedding"]
+},
+{
+    "name": "welly",
+    "GuestName": "Welly",
+    "Invitation": ["HolyMatrimony", "Wedding"]
+},
+{
+    "name": "lisaveronica",
+    "GuestName": "Lisa Veronica",
+    "Invitation": ["HolyMatrimony", "Wedding"]
+},
+{
+    "name": "vaneshaardianto",
+    "GuestName": "Vanesha Ardianto",
+    "Invitation": ["HolyMatrimony", "Wedding"]
+},
+{
+    "name": "sunnyclarence",
+    "GuestName": "Sunny Clarence",
+    "Invitation": ["HolyMatrimony", "Wedding"]
+},
+{
+    "name": "pieterwahyudi",
+    "GuestName": "Pieter Wahyudi",
+    "Invitation": ["HolyMatrimony", "Wedding"]
+},
+{
+    "name": "kevinsetiawan",
+    "GuestName": "Kevin Setiawan",
+    "Invitation": ["HolyMatrimony", "Wedding"]
+},
+{
+    "name": "joninovianto",
+    "GuestName": "Joni Novianto",
+    "Invitation": ["HolyMatrimony", "Wedding"]
+},
+{
+    "name": "cindykristanti",
+    "GuestName": "Cindy Kristanti",
+    "Invitation": ["HolyMatrimony", "Wedding"]
+},
+{
+    "name": "frendy",
+    "GuestName": "Frendy",
+    "Invitation": ["HolyMatrimony"]
+},
+{
+    "name": "ameliaanasthasia",
+    "GuestName": "Amelia Anasthasia",
+    "Invitation": ["Wedding"]
+},
+{
+    "name": "eka",
+    "GuestName": "Eka",
+    "Invitation": ["HolyMatrimony"]
+},
+{
+    "name": "merry",
+    "GuestName": "Merry",
+    "Invitation": ["HolyMatrimony"]
+},
+{
+    "name": "desty",
+    "GuestName": "Desty",
+    "Invitation": ["HolyMatrimony"]
+}, {
+    "name": "kelvintantowie",
+    "GuestName": "Kelvin Tantowie",
+    "Invitation": ["HolyMatrimony"]
+}, {
+    "name": "frisca",
+    "GuestName": "Frisca",
+    "Invitation": ["HolyMatrimony"]
+}, {
+    "name": "jeffrialfred",
+    "GuestName": "Jeffri Alfred",
+    "Invitation": ["HolyMatrimony"]
+}, {
+    "name": "leonaldosutedja",
+    "GuestName": "Leonaldo Sutedja",
+    "Invitation": ["HolyMatrimony"]
+}, {
+    "name": "widiaraharja",
+    "GuestName": "Widya Raharja",
+    "Invitation": ["HolyMatrimony"]
+}, {
+    "name": "jimmysenji",
+    "GuestName": "Jimmy Senji",
+    "Invitation": ["HolyMatrimony"]
+}, {
+    "name": "feliciahwang",
+    "GuestName": "Felicia Hwang",
+    "Invitation": ["HolyMatrimony"]
+}, {
+    "name": "emanuelaudry",
+    "GuestName": "Emanuel Audry",
+    "Invitation": ["HolyMatrimony"]
+}, {
+    "name": "noviaangelina",
+    "GuestName": "Novia Angelina",
+    "Invitation": ["HolyMatrimony"]
+}, {
+    "name": "aivi",
+    "GuestName": "Aivi",
+    "Invitation": ["HolyMatrimony"]
+}, {
+    "name": "ardinakwenda",
+    "GuestName": "Ardina Kwenda",
+    "Invitation": ["HolyMatrimony"]
+}, {
+    "name": "dandyfarlus",
+    "GuestName": "Dandy Farlus",
+    "Invitation": ["Wedding"]
+}, {
+    "name": "johanesadipatra",
+    "GuestName": "Johanes Adi Patra",
+    "Invitation": ["HolyMatrimony"]
+}, {
+    "name": "buderina",
+    "GuestName": "Bude Rina",
+    "Invitation": ["HolyMatrimony"]
+}, {
+    "name": "mrs.cindy",
+    "GuestName": "Mrs. Cindy",
+    "Invitation": ["HolyMatrimony"]
+},
 
+{
+    "name": "agnesevita",
+    "GuestName": "Agnes Evita",
+    "Invitation": ["HolyMatrimony"]
+}, {
+    "name": "michaelwijaya",
+    "GuestName": "Michael Wijaya",
+    "Invitation": ["HolyMatrimony"]
+}, {
+    "name": "marshel",
+    "GuestName": "Marshel",
+    "Invitation": ["HolyMatrimony"]
+}, {
+    "name": "minggus",
+    "GuestName": "Minggus",
+    "Invitation": ["HolyMatrimony"]
+}, {
+    "name": "mrseka",
+    "GuestName": "Mrs. Eka",
+    "Invitation": ["HolyMatrimony"]
+},
+
+{
+    "name": "mrs.agatha",
+    "GuestName": "Mrs. Agatha",
+    "Invitation": ["HolyMatrimony"]
+}, {
+    "name": "mrs.eva",
+    "GuestName": "Mrs. Eva",
+    "Invitation": ["HolyMatrimony"]
+}, {
+    "name": "mrs.susy",
+    "GuestName": "Mrs. Susy",
+    "Invitation": ["HolyMatrimony"]
+}, {
+    "name": "mrs.lucy",
+    "GuestName": "Mrs. Lucy",
+    "Invitation": ["HolyMatrimony"]
+}, {
+    "name": "mrs.sofie",
+    "GuestName": "Mrs. Sofie",
+    "Invitation": ["HolyMatrimony"]
+}, {
+    "name": "ms.hanny",
+    "GuestName": "Ms. Hanny ",
+    "Invitation": ["HolyMatrimony"]
+}, {
+    "name": "miaufie",
+    "GuestName": "Miau Fie",
+    "Invitation": ["Wedding"]
+}, {
+    "name": "rickywicaksono",
+    "GuestName": "Ricky Wicaksono",
+    "Invitation": ["Wedding"]
+},
+{
+    "name": "tanniawu",
+    "GuestName": "Tannia Wu",
+    "Invitation": ["Wedding"]
+},
+{
+    "name": "hendrahaka",
+    "GuestName": "Hendra Haka",
+    "Invitation": ["Wedding"]
+},
+{
+    "name": "mychalsuryanugroho",
+    "GuestName": "Mychal Surya Nugroho",
+    "Invitation": ["Wedding"]
+},
+
+{
+    "name": "mr.handy",
+    "GuestName": "Mr. Handy",
+    "Invitation": ["Wedding"]
+},
+
+{
+    "name": "renaldojoshua",
+    "GuestName": "Renaldo Joshua",
+    "Invitation": ["Wedding"]
+},
+{
+    "name": "Jeremiah",
+    "GuestName": "Jeremiah",
+    "Invitation": ["Wedding"]
+},
+{
+    "name": "elfan",
+    "GuestName": "Elfan",
+    "Invitation": ["Wedding"]
+},
+{
+    "name": "rionardofarlus",
+    "GuestName": "Rionardo Farlus",
+    "Invitation": ["Wedding"]
+},
+{
+    "name": "joseph",
+    "GuestName": "Joseph",
+    "Invitation": ["Wedding"]
+},
+{
+    "name": "stevanycanggar",
+    "GuestName": "Stevany Canggar",
+    "Invitation": ["Wedding"]
+},
+{
+    "name": "natali",
+    "GuestName": "Natali",
+    "Invitation": ["Wedding"]
+},
+{
+    "name": "meilani",
+    "GuestName": "Meilani",
+    "Invitation": ["Wedding"]
+},
+{
+    "name": "emily",
+    "GuestName": "Emily",
+    "Invitation": ["Wedding"]
+},
+{
+    "name": "jonathan",
+    "GuestName": "Jonathan",
+    "Invitation": ["Wedding"]
+},
+{
+    "name": "cynthia",
+    "GuestName": "Cynthia",
+    "Invitation": ["Wedding"]
+},
+{
+    "name": "yunica",
+    "GuestName": "Yunica",
+    "Invitation": ["Wedding"]
+},
+{
+    "name": "ervani",
+    "GuestName": "Ervani",
+    "Invitation": ["Wedding"]
+},
+{
+    "name": "dedi",
+    "GuestName": "Dedi",
+    "Invitation": ["Wedding"]
+},
+{
+    "name": "septian",
+    "GuestName": "Septian",
+    "Invitation": ["Wedding"]
+},
+{
+    "name": "Steven",
+    "GuestName": "Steven",
+    "Invitation": ["Wedding"]
+},
+{
+    "name": "felita",
+    "GuestName": "Felita",
+    "Invitation": ["Wedding"]
+},
+{
+    "name": "vilentwismany",
+    "GuestName": "Vilent Wismany",
+    "Invitation": ["Wedding"]
+},
+{
+    "name": "shierenjuanita",
+    "GuestName": "Shieren Juanita",
+    "Invitation": ["Wedding"]
+},
+{
+    "name": "djongmeri",
+    "GuestName": "Djong Meri",
+    "Invitation": ["Wedding"]
+},
+{
+    "name": "Catherinesutiono",
+    "GuestName": "Catherine Sutiono",
+    "Invitation": ["Wedding"]
+},
+{
+    "name": "melifebriany",
+    "GuestName": "Meli Febriany",
+    "Invitation": ["Wedding"]
+},
+{
+    "name": "imelda",
+    "GuestName": "Imelda",
+    "Invitation": ["Wedding"]
+},
+{
+    "name": "robbybuntoro",
+    "GuestName": "Robby Buntoro",
+    "Invitation": ["Wedding"]
+},
+{
+    "name": "aprilialukita",
+    "GuestName": "Aprilia Lukita",
+    "Invitation": ["Wedding"]
+},
+{
+    "name": "ellysiaandiana",
+    "GuestName": "Ellysia Andiana",
+    "Invitation": ["Wedding"]
+},
+{
+    "name": "ferry",
+    "GuestName": "Ferry",
+    "Invitation": ["Wedding"]
+},
+{
+    "name": "lidwina",
+    "GuestName": "Lidwina",
+    "Invitation": ["Wedding"]
+},
+{
+    "name": "mr.edy&istri",
+    "GuestName": "Mr. Edy & Istri",
+    "Invitation": ["Wedding"]
+},
+{
+    "name": "mr.agus&istri",
+    "GuestName": "Mr. Agus & Istri",
+    "Invitation": ["Wedding"]
+},
+{
+    "name": "mr.hedisutanto&istri",
+    "GuestName": "Mr. Hedi Sutanto & Istri",
+    "Invitation": ["Wedding"]
+},
+{
+    "name": "mr.acien&istri",
+    "GuestName": "Mr. Acien & Istri",
+    "Invitation": ["Wedding"]
+},
+{
+    "name": "mr.sansan&istri",
+    "GuestName": "Mr. Sansan & Istri",
+    "Invitation": ["Wedding"]
+},
+{
+    "name": "mr.bogie&istri",
+    "GuestName": "Mr. Bogie & Istri",
+    "Invitation": ["Wedding"]
+},
+{
+    "name": "mr.ardian&istri",
+    "GuestName": "Mr. Ardian & Istri",
+    "Invitation": ["Wedding"]
+},
+{
+    "name": "mr.richard&istri",
+    "GuestName": "Mr. Richard & Istri",
+    "Invitation": ["Wedding"]
+},
+{
+    "name": "mr.azis&istri",
+    "GuestName": "Mr. Azis & Istri",
+    "Invitation": ["Wedding"]
+},
+{
+    "name": "mr.wardonoasnim",
+    "GuestName": "Mr. Wardono Asnim",
+    "Invitation": ["Wedding"]
+},
+{
+    "name": "mrs.lanti",
+    "GuestName": "Mrs. Lanti",
+    "Invitation": ["HolyMatrimony"]
+}
 ]
