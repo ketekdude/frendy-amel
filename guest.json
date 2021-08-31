@@ -264,12 +264,22 @@
 {
     "name": "yunica",
     "GuestName": "Yunica",
-    "Invitation": ["Wedding"]
+    "Invitation": ["HolyMatrimony"]
 },
 {
     "name": "ervani",
     "GuestName": "Ervani",
-    "Invitation": ["Wedding"]
+    "Invitation": ["HolyMatrimony"]
+},
+{
+    "name": "jenniekwenda",
+    "GuestName": "Jennie Kwenda",
+    "Invitation": ["HolyMatrimony"]
+},
+{
+    "name": "vendry",
+    "GuestName": "Vendry",
+    "Invitation": ["HolyMatrimony"]
 },
 {
     "name": "dedi",
