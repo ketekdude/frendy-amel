@@ -249,7 +249,7 @@
 {
     "name": "emily",
     "GuestName": "Emily",
-    "Invitation": ["Wedding"]
+    "Invitation": ["HolyMatrimony"]
 },
 {
     "name": "jonathan",
@@ -304,6 +304,11 @@
 {
     "name": "vilentwismany",
     "GuestName": "Vilent Wismany",
+    "Invitation": ["Wedding"]
+},
+{
+    "name": "shintaoctavia",
+    "GuestName": "Shinta Octavia",
     "Invitation": ["Wedding"]
 },
 {
