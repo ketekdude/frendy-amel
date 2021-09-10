@@ -24,6 +24,11 @@
     "Invitation": ["HolyMatrimony", "Wedding"]
 },
 {
+    "name": "sunphin",
+    "GuestName": "Sunphin",
+    "Invitation": ["HolyMatrimony"]
+},
+{
     "name": "pieterwahyudi",
     "GuestName": "Pieter Wahyudi",
     "Invitation": ["HolyMatrimony", "Wedding"]
@@ -115,6 +120,10 @@
     "name": "dandyfarlus",
     "GuestName": "Dandy Farlus",
     "Invitation": ["Wedding"]
+},{
+    "name": "calvinwellingson",
+    "GuestName": "Calvin Wellingson",
+    "Invitation": ["Wedding"]
 }, {
     "name": "johanesadipatra",
     "GuestName": "Johanes Adi Patra",
@@ -203,7 +212,7 @@
 {
     "name": "mr.handy",
     "GuestName": "Mr. Handy",
-    "Invitation": ["Wedding"]
+    "Invitation": ["HolyMatrimony"]
 },
 
 {
@@ -239,7 +248,7 @@
 {
     "name": "natali",
     "GuestName": "Natali",
-    "Invitation": ["Wedding"]
+    "Invitation": ["HolyMatrimony"]
 },
 {
     "name": "meilani",
@@ -309,7 +318,7 @@
 {
     "name": "shintaoctavia",
     "GuestName": "Shinta Octavia",
-    "Invitation": ["Wedding"]
+    "Invitation": ["HolyMatrimony"]
 },
 {
     "name": "shierenjuanita",
