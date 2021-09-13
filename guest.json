@@ -208,7 +208,11 @@
     "GuestName": "Mychal Surya Nugroho",
     "Invitation": ["Wedding"]
 },
-
+{
+    "name": "agnesdharma",
+    "GuestName": "Agnes Dharma",
+    "Invitation": ["HolyMatrimony"]
+},
 {
     "name": "mr.handy",
     "GuestName": "Mr. Handy",
