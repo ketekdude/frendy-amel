@@ -405,8 +405,8 @@
     "Invitation": ["Wedding"]
 },
 {
-    "name": "mr.ardian-istri",
-    "GuestName": "Mr. Ardian & Istri",
+    "name": "mr.ardian-istri(bonastar)",
+    "GuestName": "Mr. Ardian & Istri (Bona Star)",
     "Invitation": ["Wedding"]
 },
 {
@@ -428,5 +428,26 @@
     "name": "mrs.lanti",
     "GuestName": "Mrs. Lanti",
     "Invitation": ["HolyMatrimony"]
+},
+{
+    "name":"mr.deni-istri",
+    "GuestName":"Mr. Deni & Istri",
+    "Invitation":["Wedding"]
+},
+{
+    "name":"tk.cahayabaru",
+    "GuestName":"Tk. Cahaya Baru",
+    "Invitation":["Wedding"]
+},
+{
+    "name":"tingqa-partner",
+    "GuestName":"Ting Qa & Partner",
+    "Invitation":["Wedding"]
+},
+
+{
+    "name":"tk.sakuraelectric",
+    "GuestName":"Tk. Sakura Electric",
+    "Invitation":["Wedding"]
 }
 ]
