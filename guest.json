@@ -227,7 +227,7 @@
 {
     "name": "Jeremiah",
     "GuestName": "Jeremiah",
-    "Invitation": ["Wedding"]
+    "Invitation": ["HolyMatrimony"]
 },
 {
     "name": "elfan",
@@ -405,8 +405,8 @@
     "Invitation": ["Wedding"]
 },
 {
-    "name": "mr.ardian-istri(bonastar)",
-    "GuestName": "Mr. Ardian & Istri (Bona Star)",
+    "name": "mr.ardian-istri",
+    "GuestName": "Mr. Ardian & Istri",
     "Invitation": ["Wedding"]
 },
 {
