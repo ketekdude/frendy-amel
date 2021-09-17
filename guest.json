@@ -209,8 +209,13 @@
     "Invitation": ["Wedding"]
 },
 {
-    "name": "agnesdharma",
-    "GuestName": "Agnes Dharma",
+    "name": "agnessaputra",
+    "GuestName": "Agnes Saputra",
+    "Invitation": ["HolyMatrimony"]
+},
+{
+    "name": "novianacandrawasih",
+    "GuestName": "Noviana Candrawasih",
     "Invitation": ["HolyMatrimony"]
 },
 {
