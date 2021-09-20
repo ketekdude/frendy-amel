@@ -226,7 +226,13 @@
         "name": "sovian",
         "GuestName": "Sovian & Family",
         "Invitation": ["Wedding"]
-    },{
+    },
+    {
+        "name": "herridhini",
+        "GuestName": "Mr. Herry Santoso & Mrs. Ruth Dhini",
+        "Invitation": ["Wedding"]
+    },
+    {
         "name": "sulviayuniarti",
         "GuestName": "Sulvia Yuniarti",
         "Invitation": ["HolyMatrimony"]
