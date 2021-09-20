@@ -213,11 +213,42 @@
     "GuestName": "Agnes Saputra",
     "Invitation": ["HolyMatrimony"]
 },
-{
-    "name": "mrs.susy",
-    "GuestName": "Mrs. Susy",
-    "Invitation": ["HolyMatrimony"]
-},
+    {
+        "name": "mrs.susy",
+        "GuestName": "Mrs. Susy",
+        "Invitation": ["HolyMatrimony"]
+    },{
+        "name": "andisutiono",
+        "GuestName": "Andi Sutiono",
+        "Invitation": ["Wedding"]
+    },
+    {
+        "name": "sovian",
+        "GuestName": "Sovian & Family",
+        "Invitation": ["Wedding"]
+    },{
+        "name": "sulviayuniarti",
+        "GuestName": "Sulvia Yuniarti",
+        "Invitation": ["HolyMatrimony"]
+    },{
+        "name": "romario",
+        "GuestName": "Romario",
+        "Invitation": ["HolyMatrimony"]
+    },{
+        "name": "kennyson",
+        "GuestName": "Kenny Son Kow",
+        "Invitation": ["HolyMatrimony"]
+    },{
+        "name": "samuel-istri",
+        "GuestName": "Samuel & Istri",
+        "Invitation": ["Wedding"]
+    },
+    
+    {
+        "name": "danielliman",
+        "GuestName": "Daniel Liman",
+        "Invitation": ["HolyMatrimony"]
+    },
 {
     "name": "novianacandrawasih",
     "GuestName": "Noviana Candrawasih",
