@@ -233,6 +233,26 @@
         "Invitation": ["Wedding"]
     },
     {
+        "name": "omagung",
+        "GuestName": "Om Agung & Family",
+        "Invitation": ["Wedding"]
+    },
+    {
+        "name": "budelis",
+        "GuestName": "Bude Lis",
+        "Invitation": ["Wedding"]
+    },
+    {
+        "name": "ms.emi",
+        "GuestName": "Ms. Emi & Partner",
+        "Invitation": ["Wedding"]
+    },
+    {
+        "name": "mr.wawan-istri",
+        "GuestName": "Mr. Wawan & Istri",
+        "Invitation": ["Wedding"]
+    },
+    {
         "name": "sulviayuniarti",
         "GuestName": "Sulvia Yuniarti",
         "Invitation": ["HolyMatrimony"]
