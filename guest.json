@@ -243,6 +243,11 @@
         "Invitation": ["Wedding"]
     },
     {
+        "name": "jenny",
+        "GuestName": "Jenny",
+        "Invitation": ["Wedding"]
+    },
+    {
         "name": "ms.emi",
         "GuestName": "Ms. Emi",
         "Invitation": ["Wedding"]
