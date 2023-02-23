@@ -310,6 +310,7 @@ h1, h2, h3, h4, h5, h6, figure {
   background-repeat: no-repeat;
   position: relative;
   width: 100%;
+  background-position: -40px;
 }
 .fh5co-cover .overlay {
   z-index: 0;
@@ -860,6 +861,7 @@ form label {
   #fh5co-counter .display-tc h1,
   .fh5co-cover .display-tc h1 {
     font-size: 40px;
+    background-position: -40px;
   }
 }
 @media screen and (max-width: 480px) {
@@ -872,7 +874,7 @@ form label {
 
 @media screen and (max-width: 480px) {
   #fh5co-header  {
-    background-position: -300px;
+    background-position: -340px;
   }
   #fh5co-started{
     background-position: 0px;
